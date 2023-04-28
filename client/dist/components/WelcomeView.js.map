@@ -1,0 +1,1 @@
+{"version":3,"file":"WelcomeView.js","sourceRoot":"","sources":["../../src/code/components/WelcomeView.tsx"],"names":[],"mappings":";;;;;AAAA,kDAA0B;AAE1B,MAAM,WAAW,GAAG,GAAG,EAAE,CAAC,CACxB,uCACE,KAAK,EAAE;QACL,QAAQ,EAAE,UAAU;QACpB,GAAG,EAAE,KAAK;QACV,SAAS,EAAE,QAAQ;QACnB,KAAK,EAAE,SAAS;KACjB;IAED,gEAA4B,CACxB,CACP,CAAC;AAEF,kBAAe,WAAW,CAAC"}
