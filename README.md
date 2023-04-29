@@ -4,7 +4,7 @@ A Webmail system
 
 ## Tech Stack
 
-TypeScript, JavaScript, React.js, Node.js, Webpack, AJAX (Axios).
+TypeScript, JavaScript, React.js, Node.js, Webpack, AJAX (Axios), NeDB.
 
 ## How to use
 
